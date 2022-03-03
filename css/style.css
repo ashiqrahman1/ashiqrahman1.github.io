@@ -1,0 +1,28 @@
+body {
+    background-color: #D3DEDC;
+}
+.container-fluid {
+    padding-right: 15%;
+    padding-left: 15%;
+    padding-top: 1%;
+}
+
+.blockquote {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+}
+
+.col-lg-6 {
+    text-align: center;
+}
+h1 {
+     font-family: 'Inconsolata', monospace;
+}
+img {
+    padding-bottom: 200px;
+}
+
+#contact {
+    text-align: center;
+}
