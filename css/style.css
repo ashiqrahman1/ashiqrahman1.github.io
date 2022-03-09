@@ -19,6 +19,10 @@ body {
 h1 {
      font-family: 'Inconsolata', monospace;
 }
+
+h3 {
+    font-family: 'Inconsolata', monospace;
+}
 img {
     padding-bottom: 200px;
 }
